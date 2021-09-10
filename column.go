@@ -10,7 +10,7 @@ import (
 	"fmt"
 
 	flatbuffers "github.com/google/flatbuffers/go"
-	"github.com/influxdata/arrow"
+	"github.com/apache/arrow/go/arrow"
 	"github.com/sglyon/feather/fbs"
 )
 
